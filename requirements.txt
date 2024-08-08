@@ -4,3 +4,4 @@ azure-common
 azure-core
 openpyxl
 streamlit
+python-docx
